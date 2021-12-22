@@ -1,0 +1,12 @@
+.ms_box {
+    border: 1px solid #000;
+    height: 50px;
+}
+
+.colored {
+    background-color: red;
+}
+/* 
+.row {
+    height: 20px;
+} */
